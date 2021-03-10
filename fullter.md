@@ -16,3 +16,8 @@ Organizations ***around the world*** are building apps with Flutter.
 [See what's being created](https://flutter.dev/showcase)
 
 #### [click here for more about Flutter](https://flutter.dev/) 
+
+- ***Tips***
+I came to  git-push failure during my first try(which throws: `LibreSSL SSL_connect: SSL_ERROR_SYSCALL in connection to github.com:443`)
+I solved by using the command:
+`networksetup -setv6off Wi-Fi` which means to resolve the hosts name by Ipv4 insdead of Ipv6. And `networksetup -setv6automatic Wi-Fi` can turn the Ipv6 on again.
