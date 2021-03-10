@@ -9,6 +9,7 @@
 - **Native Performance!** Flutter’s widgets incorporate all critical platform differences such as scrolling, navigation, icons and fonts, and your Flutter code is compiled to native ARM machine code using [Dart's native compilers](https://dart.dev/platforms).
 ![native-performance](flutter_markdown_source/native.png)
 
+
 ## Who is using Flutter?
 Organizations ***around the world*** are building apps with Flutter.
 ![who's using](flutter_markdown_source/who.png)
